@@ -24,6 +24,10 @@ EXPOSE 8080
 CMD ["catalina.sh", "run"]
 
 
+
+
+
+
 # Wrong code of mine
 #FROM openjdk:11 AS BUILD_IMAGE
 
